@@ -16,6 +16,7 @@ class SpringEmailServiceApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test has been executed");
+		logger.info("Test has been executed hello jenil nhai");
 		assertEquals(true, true);
 	}
 
