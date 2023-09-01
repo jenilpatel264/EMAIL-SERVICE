@@ -15,7 +15,8 @@ class SpringEmailServiceApplicationTests {
 	Logger logger=LoggerFactory.getLogger(SpringEmailServiceApplicationTests.class);
 	@Test
 	void contextLoads() {
-		logger.info("Test has been executed");
+		logger.info("Test has been executeddsdsd   d");
+		logger.info("Test has bdfdsffds f df dsf ds");
 		logger.info("Test has been executed hello jenil nhai");
 		assertEquals(true, true);
 	}
