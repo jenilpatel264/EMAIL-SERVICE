@@ -1,0 +1,5 @@
+# Created at 2023-09-02T16:50:17.715
+Boot Manifest-JAR contains absolute paths in classpath 'D:\New folder\Spring-Email-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
