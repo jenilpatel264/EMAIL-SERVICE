@@ -29,7 +29,7 @@ public class mailController {
 	public String getName()
 	{
 		
-		logger.info("My Name is Lakhan   f");
+		logger.info("My Name is Lakhan  f");
 		logger.info("My Name is Lakhan");
 		logger.info("My Name is Lakhandfds fs ff d");
 		return "My Name is Lakhan";
