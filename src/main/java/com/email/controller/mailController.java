@@ -28,7 +28,8 @@ public class mailController {
 	@PostConstruct
 	public String getName()
 	{
-		logger.info("My Name is Lakhan");
+		
+		logger.info("hello bhai");
 		logger.info("My Name is Lakhan");
 		logger.info("My Name is Lakhandfds fs ff d");
 		return "My Name is Lakhan";
