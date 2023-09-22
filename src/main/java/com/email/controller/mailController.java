@@ -31,6 +31,7 @@ public class mailController {
 		
 		logger.info("My Name is Lakhan   f");
 		logger.info("My Name is Lakhan");
+		logger.info("My Name is jenil pate;l");
 		logger.info("My Name is Lakhandfds fs ff d");
 		return "My Name is Lakhan";
 	}
