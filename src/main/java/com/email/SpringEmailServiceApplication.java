@@ -15,7 +15,7 @@ public class SpringEmailServiceApplication extends SpringBootServletInitializer 
 		// TODO Auto-generated method stub
 		return builder.sources(SpringEmailServiceApplication.class);
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		SpringApplication.run(SpringEmailServiceApplication.class, args);
 	}
 

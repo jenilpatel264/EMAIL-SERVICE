@@ -25,7 +25,7 @@ public class mailController {
 	@Autowired
 	private mailService mailService;
 	
-	@PostConstruct
+	@GetMapping("/")
 	public String getName()
 	{
 		
@@ -36,7 +36,7 @@ public class mailController {
 		return "My Name is Lakhan";
 	}
 	
-	@PostMapping("/")
+	@PostMapping("/email")
 	//@Scheduled(cron = "*/5 * * * * ?")
 	public String sendMail()
 	{
